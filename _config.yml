@@ -1,2 +1,4 @@
-name: Chandeep Khamba, Software engineer
+name: Chandeep Khamba, Software Engineer
 	markdown: kramdown
+gems:
+  - jekyll-sitemap
